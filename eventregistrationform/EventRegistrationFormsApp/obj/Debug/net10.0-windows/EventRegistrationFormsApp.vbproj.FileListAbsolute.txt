@@ -1,0 +1,17 @@
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\bin\Debug\net10.0-windows\EventRegistrationFormsApp.exe
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\bin\Debug\net10.0-windows\EventRegistrationFormsApp.deps.json
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\bin\Debug\net10.0-windows\EventRegistrationFormsApp.runtimeconfig.json
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\bin\Debug\net10.0-windows\EventRegistrationFormsApp.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\bin\Debug\net10.0-windows\EventRegistrationFormsApp.pdb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.Form1.resources
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.Resources.resources
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.vbproj.GenerateResource.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.AssemblyInfoInputs.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.AssemblyInfo.vb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.vbproj.CoreCompileInputs.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\refint\EventRegistrationFormsApp.dll
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.pdb
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\EventRegistrationFormsApp.genruntimeconfig.cache
+C:\Users\KAYASA\Desktop\kaaf_assignment\visualbasic\project\midsemproject\eventregistrationform\EventRegistrationFormsApp\obj\Debug\net10.0-windows\ref\EventRegistrationFormsApp.dll
