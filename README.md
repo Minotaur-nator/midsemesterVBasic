@@ -4,7 +4,7 @@ structured programming in a text-based environment to event-driven programming u
 Graphical User Interface (GUI).
 
 # Applications Overview
-1. Daily Sales &amp; Discount Tracker (Console Application):
+1. Sales Book - Daily Sales &amp; Discount Tracker (Console Application):
 This project is a command-line tool focused on the sequence control structure and data
 processing logic.
 
